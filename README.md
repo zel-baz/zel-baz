@@ -1,4 +1,4 @@
-[![zel-baz's 42 stats](https://badge.mediaplus.ma/black/zel-baz)](https://github.com/oakoudad/badge42)
+[//]: # [![zel-baz's 42 stats](https://badge.mediaplus.ma/black/zel-baz)](https://github.com/oakoudad/badge42)
 <h1 align="center">Hi 👋, I'm Zouhir</h1>
 <h3 align="center">A web development and software engineer student</h3>
 
