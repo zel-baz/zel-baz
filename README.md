@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zohir</h1>
 <h3 align="center">A web development and software engineer student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zouhairelbaz&label=Profile%20views&color=009dff&style=plastic" alt="zouhairelbaz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zel-baz&label=Profile%20views&color=009dff&style=plastic" alt="zel-baz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/xxzouhair" target="blank"><img src="https://img.shields.io/twitter/follow/xxzouhair?logo=twitter&style=for-the-badge" alt="xxzouhair" /></a> </p>
 
