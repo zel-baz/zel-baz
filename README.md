@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zel-baz&label=Profile%20views&color=009dff&style=plastic" alt="zel-baz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/xxzouhair" target="blank"><img src="https://img.shields.io/twitter/follow/xxzouhair?logo=twitter&style=for-the-badge" alt="xxzouhair" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zohir_e" target="blank"><img src="https://img.shields.io/twitter/follow/zohir_e?logo=twitter&style=for-the-badge" alt="zohir_e" /></a> </p>
 
 - 🔭 I’m currently working on **"I'm working on foundational software engineering and full-stack web development skills.**
 
