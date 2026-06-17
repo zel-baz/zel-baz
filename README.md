@@ -27,7 +27,7 @@ Docker • PostgreSQL • MongoDB • Git • Linux • AWS
 
 - **X / Twitter**: [@zohir_e](https://x.com/zohir_e)
 - **GitHub**: [zel-baz](https://github.com/zel-baz)
-- **Email**: (add your email)
+- **Email**: zohir@hexops.pro
 
 ---
 
